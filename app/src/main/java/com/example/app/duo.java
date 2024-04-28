@@ -14,4 +14,10 @@ public class duo {
         return "deb is cool";
 
     }
+
+    @GetMapping("/http")
+
+    public String Name(){
+        return "My name is Debjyoti Das";
+    }
 }
