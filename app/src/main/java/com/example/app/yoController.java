@@ -9,7 +9,8 @@ public class yoController {
     @GetMapping("/")
 
     public String index(){
-        return "Get a life  ";
+        return "Get a life young man" +
+                "you should work hard ";
     }
 
 }
