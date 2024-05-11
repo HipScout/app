@@ -11,7 +11,7 @@ public class duo {
     @GetMapping( "/duo")
 
     public String index(){
-        return "deb is cool";
+        return "deb is coollllll";
 
     }
 
